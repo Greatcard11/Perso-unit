@@ -1,47 +1,130 @@
-Production Date,Shift Type,Client,Card Type,Quantity Produced,Machine Used,Operator Name
-4/5/2026,Morning,UBA,Mastercard,216,MS-5000,Gift Gbolofa
-4/5/2026,Morning,UBA,Mastercard,32,MS-5000,Kingsley Ojike
-4/5/2026,Morning,UBA,Mastercard,39,MS-5000,Kingsley Ojike
-4/5/2026,Morning,UBA,Mastercard,4,MS-5000,Gift Gbolofa
-4/5/2026,Morning,UBA,Mastercard,1,MS-5000,Kingsley Ojike
-4/5/2026,Morning,Basic Bank,Verve,300,Matica 1,Emmanuel Akpan
-5/5/2026,Morning,Basic Gambia,Verve,300,Matica 1,Emmanuel Akpan
-5/5/2026,Morning,Basic Gambia,Verve,100,Matica 1,Kingsley Ojike
-5/5/2026,Morning,AGIB Bank,Verve,2500,Matica 1,Kingsley Ojike
-6/5/2026,Morning,Polaris,Afrigo,6400,Piotec 1,Kingsley Ojike
-7/5/2026,Morning,Palmpay,Verve,10000,MS-5000,Kingsley Ojike
-7/5/2026,Morning,Wema,Verve,1700,Matica 2,Emmanuel Akpan
-7/5/2026,Morning,Polaris,Afrigo,6400,Piotec 1,Vincent Shegun
-7/5/2026,Morning,Palmpay,Verve,10000,Matica 1,Emmanuel Akpan
-8/5/2026,Morning,Palmpay,Verve,10000,MS-5000,Emmanuel Akpan
-8/5/2026,Morning,Wema,Verve,10000,Piotec 2,Kingsley Ojike
-8/5/2026,Morning,Wema,Verve,2000,Piotec 2,Vincent Shegun
-11/5/2026,Morning,Polaris,Afrigo,10650,Piotec 1,Kingsley Ojike
-11/5/2026,Morning,Wema,Verve,2050,Piotec 2,Kingsley Ojike
-11/5/2026,Morning,Palmpay,Verve,10000,MS-5000,Kingsley Ojike
-12/5/2026,Morning,Polaris,Afrigo,10650,Piotec 1,Kingsley Ojike
-12/5/2026,Morning,Opay,Verve,10000,MS-5000 1,Kingsley Ojike
-12/5/2026,Morning,Opay,Verve,10000,MS-5000 2, Kingsley Ojike
-12/5/2026,Morning,Opay,Verve,10000,Matica 1,Kingsley Ojike
-12/5/2026,Morning,UBA,Mastercard,44,MS-5000 1,Kingsley Ojike
-12/5/2026,Morning,UBA,Mastercard,2,MS-5000 1,Kingsley Ojike
-12/5/2026,Morning,UBA,Mastercard,30,MS-5000 1,Kingsley Ojike
-12/5/2026,Morning,UBA,Mastercard,158,MS-5000 1,Kingsley Ojike
-12/5/2026,Morning,UBA,Mastercard,4,MS-5000 1,Kingsley Ojike
-12/5/2026,Morning,Wema,Verve,2,Matica 1,Kingsley Ojike
-12/5/2026,Morning,Wema,Verve,18,Matica 1,Kingsley Ojike
-12/5/2026,Morning,Wema,Verve,2600,Matica 2,Kingsley Ojike
-12/5/2026,Afternoon,Opay,Verve,10000,Piotec 1,Vincent Shegun
-12/5/2026,Afternoon,Opay,Verve,10000,MS-5000 1,Jennifer Ofili
-12/5/2026,Afternoon,Opay,Verve,10000,MS-5000 2,Vincent Shegun
-12/5/2026,Afternoon,Wema,Verve,2600,Matica 1,Jennifer Ofili
-13/5/2026,Morning,Opay,Verve,10000,MS-5000 2,Kingsley Ojike
-13/5/2026,Morning,Opay,Verve,10000,MS-5000 1,Kingsley Ojike
-13/5/2026,Morning,Opay,Verve,10000,MS-5000 1,Kingsley Ojike
-13/5/2026,Morning,Wema,Verve,2000,Matica 1,Kingsley Ojike
-13/5/2026,Morning,Wema,Verve,4,Matica 2,Kingsley Ojike
-13/5/2026,Morning,Wema,Verve,200,Matica 1,Kingsley Ojike
-13/5/2026,Morning,Wema,Verve,33,Matica 2,Kingsley Ojike
-13/5/2026,Morning,Opay,Verve,10000,MS-5000 2,Kingsley Ojike
-13/5/2026,Morning,Polaris,Afrigo,10650,Piotec 1,Kingsley Ojike
-13/5/2026,,,,,,
+Production Date,Shift Type,Client,Card Type,Quantity Produced,Machine Used,Operator Name,
+4/5/2026,Morning,UBA,Mastercard,216,MS-5000,Gift Gbolofa,
+4/5/2026,Morning,UBA,Mastercard,32,MS-5000,Kingsley Ojike,
+4/5/2026,Morning,UBA,Mastercard,39,MS-5000,Kingsley Ojike,
+4/5/2026,Morning,UBA,Mastercard,4,MS-5000,Gift Gbolofa,
+4/5/2026,Morning,UBA,Mastercard,1,MS-5000,Kingsley Ojike,
+4/5/2026,Morning,Basic Bank,Verve,300,Matica 1,Emmanuel Akpan,
+5/5/2026,Morning,Basic Gambia,Verve,300,Matica 1,Emmanuel Akpan,
+5/5/2026,Morning,Basic Gambia,Verve,100,Matica 1,Kingsley Ojike,
+5/5/2026,Morning,AGIB Bank,Verve,2500,Matica 1,Kingsley Ojike,
+6/5/2026,Morning,Polaris,Afrigo,6400,Piotec 1,Kingsley Ojike,
+7/5/2026,Morning,Palmpay,Verve,10000,MS-5000,Kingsley Ojike,
+7/5/2026,Morning,Wema,Verve,1700,Matica 2,Emmanuel Akpan,
+7/5/2026,Morning,Polaris,Afrigo,6400,Piotec 1,Vincent Shegun,
+7/5/2026,Morning,Palmpay,Verve,10000,Matica 1,Emmanuel Akpan,
+8/5/2026,Morning,Palmpay,Verve,10000,MS-5000,Emmanuel Akpan,
+8/5/2026,Morning,Wema,Verve,10000,Piotec 2,Kingsley Ojike,
+8/5/2026,Morning,Wema,Verve,2000,Piotec 2,Vincent Shegun,
+11/5/2026,Morning,Polaris,Afrigo,10650,Piotec 1,Kingsley Ojike,
+11/5/2026,Morning,Wema,Verve,2050,Piotec 2,Kingsley Ojike,
+11/5/2026,Morning,Palmpay,Verve,10000,MS-5000,Kingsley Ojike,
+12/5/2026,Morning,Polaris,Afrigo,10650,Piotec 1,Kingsley Ojike,
+12/5/2026,Morning,Opay,Verve,10000,MS-5000 1,Kingsley Ojike,
+12/5/2026,Morning,Opay,Verve,10000,MS-5000 2, Kingsley Ojike,
+12/5/2026,Morning,Opay,Verve,10000,Matica 1,Kingsley Ojike,
+12/5/2026,Morning,UBA,Mastercard,44,MS-5000 1,Kingsley Ojike,
+12/5/2026,Morning,UBA,Mastercard,2,MS-5000 1,Kingsley Ojike,
+12/5/2026,Morning,UBA,Mastercard,30,MS-5000 1,Kingsley Ojike,
+12/5/2026,Morning,UBA,Mastercard,158,MS-5000 1,Kingsley Ojike,
+12/5/2026,Morning,UBA,Mastercard,4,MS-5000 1,Kingsley Ojike,
+12/5/2026,Morning,Wema,Verve,2,Matica 1,Kingsley Ojike,
+12/5/2026,Morning,Wema,Verve,18,Matica 1,Kingsley Ojike,
+12/5/2026,Morning,Wema,Verve,2600,Matica 2,Kingsley Ojike,
+12/5/2026,Afternoon,Opay,Verve,10000,Piotec 1,Vincent Shegun,
+12/5/2026,Afternoon,Opay,Verve,10000,MS-5000 1,Jennifer Ofili,
+12/5/2026,Afternoon,Opay,Verve,10000,MS-5000 2,Vincent Shegun,
+12/5/2026,Afternoon,Wema,Verve,2600,Matica 1,Jennifer Ofili,
+13/5/2026,Morning,Opay,Verve,10000,MS-5000 2,Kingsley Ojike,
+13/5/2026,Morning,Opay,Verve,10000,MS-5000 1,Kingsley Ojike,
+13/5/2026,Morning,Opay,Verve,10000,MS-5000 1,Kingsley Ojike,
+13/5/2026,Morning,Wema,Verve,2000,Matica 1,Kingsley Ojike,
+13/5/2026,Morning,Wema,Verve,4,Matica 2,Kingsley Ojike,
+13/5/2026,Morning,Wema,Verve,200,Matica 1,Kingsley Ojike,
+13/5/2026,Morning,Wema,Verve,33,Matica 2,Kingsley Ojike,
+13/5/2026,Morning,Opay,Verve,10000,MS-5000 2,Kingsley Ojike,
+13/5/2026,Morning,Polaris,Afrigo,10650,Piotec 1,Kingsley Ojike,
+15/5/2026,Morning,Polaris,Afrigo,10800,Piotec 1,Kingsley Ojike,
+15/5/2026,Morning,Wema,Verve,1,MS-5000,Kingsley Ojike,
+15/5/2026,Morning,Wema,Verve,13,MS-5001,Kingsley Ojike,
+15/5/2026,Morning,UBA,Mastercard,36,MS-5002,Kingsley Ojike,
+15/5/2026,Morning,UBA,Mastercard,1,MS-5003,Kingsley Ojike,
+15/5/2026,Morning,UBA,Mastercard,27,MS-5004,Kingsley Ojike,
+15/5/2026,Morning,UBA,Mastercard,60,MS-5005,Kingsley Ojike,
+15/5/2026,Morning,UBA,Mastercard,122,MS-5006,Kingsley Ojike,
+15/5/2026,Morning,UBA,Mastercard,3,MS-5007,Kingsley Ojike,
+15/5/2026,Afternoon,Wema,Verve,2200,Piotec 2,Vincent Shegun,
+18/5/2026,Morning,Opay,Verve,10000,MS-5000,Jennifer Ofili,
+18/5/2026,Morning,Opay,Verve,10000,MS-5000,Jennifer Ofili,
+18/5/2026,Morning,Opay,Verve,10000,MS-5000,Jennifer Ofili,
+18/5/2026,Morning,Polaris,Afrigo,10800,Piotec 1,Vincent Shegun,
+18/5/2026,Afternoon,Opay,Verve,10000,MS-5000 1,Kingsley Ojike,
+18/5/2026,Afternoon,Opay,Verve,10000,MS-5000 2,Kingsley Ojike,
+18/5/2026,Afternoon,Opay,Verve,10000,Piotec 2,Kingsley Ojike,
+18/5/2026,Afternoon,Polaris,Afrigo,10800,Piotec 1,Kingsley Ojike,
+19/5/2026,Morning,Palmpay,Verve,10000,MS-5000 1,Jennifer Ofili,
+19/5/2026,Morning,Wema,Verve,16,Matica 1,Jennifer Ofili,
+19/5/2026,Morning,Wema,Verve,1,Matica 1,Jennifer Ofili,
+19/5/2026,Afternoon,Opay,Verve,10000,MS-5000 2,Kingsley Ojike,
+19/5/2026,Afternoon,Palmpay,Verve,10000,MS-5000 1,Kingsley Ojike,
+19/5/2026,Afternoon,Wema,Verve,2,Piotec 2,Kingsley Ojike,
+20/5/2026,Morning,UBA,Mastercard,1,MS-5000 1,Vincent Shegun,
+20/5/2026,Morning,Wesley,Afrigo,5,Piotec 1,Vincent Shegun,
+20/5/2026,Afternoon,Polaris,Afrigo,10200,MS-5000 2,Kingsley Ojike,
+20/5/2026,Afternoon,Polaris,Afrigo,7600,Piotec 1,Kingsley Ojike,
+21/5/2026,Morning,Polaris,Afrigo,10200,MS-5000 2,Jennifer Ofili,
+21/5/2026,Morning,Polaris,Afrigo,7600,Piotec 1,Vincent Shegun,
+21/5/2026,Morning,Opay,Verve,10000,MS-5000 1,Vincent Shegun,
+21/5/2026,Morning,Opay,Verve,10000,MS-5000 2,Jennifer Ofili,
+21/5/2026,Morning,Opay,Verve,10000,Matica 1,Vincent Shegun,
+21/5/2026,Morning,Opay,Verve,10000,Matica 2,Vincent Shegun,
+21/5/2026,Afternoon,Opay,Verve,10000,Piotec 2,Kingsley Ojike,
+21/5/2026,Afternoon,Opay,Verve,10000,MS-5000 1,Kingsley Ojike,
+21/5/2026,Afternoon,Opay,Verve,10000,MS-5000 2,Kingsley Ojike,
+21/5/2026,Afternoon,Polaris,Afrigo,10400,Piotec 1,Kingsley Ojike,
+22/5/2026,Morning,Opay,Verve,"10,000",MS-5000 2,Jennifer Ofili,
+22/5/2026,Morning,Opay,Verve,"10,000",MS-5000 1,Jennifer Ofili,
+22/5/2026,Morning,Opay,Verve,"10,000",Piotec 2,Vincent Shegun,
+22/5/2026,Morning,Opay,Verve,"10,000",MS-5000 1,Vincent Shegun,
+22/5/2026,Morning,Polaris,Afrigo,"1,400",Piotec 1,Vincent Shegun,
+22/5/2026,Afternoon,Opay,Verve,"10,000",Piotec 2,Kingsley Ojike,
+22/5/2026,Afternoon,Opay,Verve,"10,000",MS-5000 1,Kingsley Ojike,
+22/5/2026,Afternoon,Opay,Verve,"10,000",MS-5000 2,Kingsley Ojike,
+22/5/2026,Afternoon,Polaris,Afrigo,"10,400",Piotec 1,Kingsley Ojike,
+04/06/2026,Morning,Opay,Verve,"10,000",MS-5000 1,Jennifer Ofili,
+04/06/2026,Morning,Opay,Verve,"10,000",MS-5000 1,Naomi John,
+04/06/2026,Morning,Opay,Verve,"10,000",MS-5000 1,Vincent Shegun,
+29/06/2026,Morning,Opay,Verve,"10,000",MS-5000 2,Vincent Shegun,
+29/06/2026,Morning,Opay,Verve,"10,000",Piotec 2,Emmanuel Akpan,
+29/06/2026,Morning,Opay,Verve,"10,000",Piotec 1,Jennifer Ofili,
+30/06/2026,Morning,Opay,Verve,"10,000",MS-5000 2,Emmanuel Akpan,
+30/06/2026,Morning,Opay,Verve,"10,000",Piotec 2,Emmanuel Akpan,
+30/06/2026,Morning,Opay,Verve,"10,000",Piotec 1,Jennifer Ofili,
+01/07/2026,Morning,Opay,Verve,"10,000",Piotec 1,Emmanuel Akpan,
+01/07/2026,Morning,Opay,Verve,"10,000",MS-5000 1,Jennifer Ofili,
+06/07/2026,Afternoon,Opay,Verve,"10,000",MS-5000 2,Jennifer Ofili,
+06/07/2026,Afternoon,Opay,Verve,"10,000",Piotec 1,Emmanuel Akpan,
+06/07/2026,Afternoon,Opay,Verve,"10,000",Piotec 2,Emmanuel Akpan,
+06/07/2026,Afternoon,Opay,Verve,"10,000",Matica 1,Vincent Shegun,
+06/07/2026,Afternoon,Opay,Verve,"10,000",Matica 2,Vincent Shegun,
+06/07/2026,Afternoon,Opay,Verve,"10,000",MS-5000 1,Jennifer Ofili,
+06/07/2026,Afternoon,Opay,Verve,"10,700",MS-5000 1,Jennifer Ofili,
+14/07/2026,Morning,Polaris,Afrigo,30,Piotec 1,Kingsley Ojike,
+14/07/2026,Morning,Polaris,Afrigo,"6,754",Piotec 1,Kingsley Ojike,
+13/08/2026,Morning,Opay,Verve,"10,000",MS-5000 1,Jennifer Ofili,
+13/08/2026,Morning,Opay,Verve,"10,000",Piotec 1,Godday Matthew,
+13/08/2026,Morning,Opay,Verve,"10,000",Piotec 2,Gooday Matthew,
+13/08/2026,Morning,Opay,Verve,"10,000",MS-5000 2,Jennifer Ofili,
+13/08/2026,Afternoon,Opay,Verve,"10,000",Piotec 1,Kingsley Ojike,
+13/08/2026,Afternoon,Polaris,Afrigo,"8,000",Piotec 2,Kingsley Ojike,
+06/10/2026,Morning,Polaris,Afrigo,"5,000",Piotec 1,Kingsley Ojike,
+06/10/2026,Morning,Polaris,Afrigo,"5,200",Piotec 2,Jennifer Ofili,
+06/10/2026,Morning,Polaris,Afrigo,"5,300",Piotec 2,Jennifer Ofili,
+06/10/2026,Morning,Polaris,Afrigo,"5,000",MS-5000 1,Kingsley Ojike,
+06/10/2026,Morning,Polaris,Afrigo,"5,150",Piotec 1,Jennifer Ofili,
+07/10/2026,Morning,Polaris,Afrigo,"5,300",Piotec 2,Gift Gbolofa,
+07/10/2026,Morning,Polaris,Afrigo,"5,150",Piotec 1,Kingsley Ojike,
+07/10/2026,Morning,Polaris,Afrigo,"5,000",Matica 1,Jennifer Ofili,
+09/10/2026,Full Shift,Opay,Verve,"10,000",MS-5000 2,Gift Gbolofa,
+10/10/2026,Morning,Opay,Verve,"10,000",MS-5000 2,Jennifer Ofili,
+,,,,,,,
